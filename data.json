@@ -1,0 +1,78 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/6207297/pexels-photo-6207297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Robusta Long Black",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2012/12/18/18/02/nasi-goreng-70674_1280.jpg",
+            "nama": "Nasi Goreng",
+            "size": "300 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/17289691/pexels-photo-17289691/free-photo-of-kopi-pencuci-mulut-kue-stroberi.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Red Velvet Cake",
+            "size": "100 Gram",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=red+velvet+cake&sa=X&hl=en-GB&biw=1366&bih=643&tbm=shop&sxsrf=AB5stBiseRu20_x9SAulN9uGtSjQnzrnbA%3A1690466863320&ei=L3rCZPPbErL0juMPy-6xiAU&oq=red+vele&gs_lp=Egtwcm9kdWN0cy1jYyIIcmVkIHZlbGUqAggAMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKSKsSUABYzQhwAHgAkAEBmAGwA6ABywyqAQkyLjMuMi4wLjG4AQPIAQD4AQHCAgsQABiABBixAxiDAcICBRAAGIAEwgIEEAAYA4gGAQ&sclient=products-cc"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/905485/pexels-photo-905485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Black Tea",
+            "size": "150 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=teh+hitam&sa=X&hl=en-GB&biw=1366&bih=643&tbm=shop&sxsrf=AB5stBiQmuo1UyOw8-LHgz_02c0y5PxmOg%3A1690465468831&ei=vHTCZJDIMdDWseMPyMyC0AU&ved=0ahUKEwiQlpjOgq-AAxVQa2wGHUimAFoQ4dUDCAg&uact=5&oq=teh+hitam&gs_lp=Egtwcm9kdWN0cy1jYyIJdGVoIGhpdGFtMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IlwxQAFjBCnAAeACQAQCYAZsCoAH8CqoBBTEuNS4yuAEDyAEA-AEBwgIJEAAYigUYChhDwgIHEAAYigUYQ8ICBBAAGAOIBgE&sclient=products-cc"
+        }
+    ]
+}
